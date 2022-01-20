@@ -1,0 +1,111 @@
+/* body {
+    background-color: lightgrey;
+    margin: 0;
+    
+} */
+
+/* .container {
+    border: 1px black solid;
+    background-color: white;
+    width: 1000px;
+    margin: auto;
+    height: 100vh;
+    box-shadow: 2px 2px 2px darkgray ;
+} */
+
+/* header {
+    background-color: #EEEEEE;
+} */
+
+
+ /* header .barreprincipale {
+    line-height: 120px;
+    vertical-align: middle; 
+    margin-bottom: 16px;
+}  */
+
+/* 
+ul, li, a {
+    border: 0px;
+    margin: 0;
+    padding: 0;
+} */
+
+body {
+    max-width: 1400px;
+    margin: auto;
+}
+
+.css {
+    background-color: #2965F1;
+    
+}
+
+.php {
+    background-color: #8993BE;
+    
+}
+
+.js {
+    background-color: #F0DB4F;
+     
+}
+
+.html {
+    background-color: #E44D26;
+}
+
+.divers {
+    background-color: green;
+}
+
+ /* h1 {  
+}  */
+
+/* header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #3D8BFD;
+    font-size: 0;
+    
+} */
+
+/* header ul li {
+    display: inline-block;
+    padding: 0 16px; 
+    margin: 0;
+    line-height: 40px;
+    vertical-align: middle;  
+    font-size: 16px; 
+} */
+
+/* header ul li:hover {
+    background-color: #052C65;
+} */
+
+/* header ul .active {
+    background-color: #052C65;
+} */
+
+/* header ul li a {
+    color: white;
+    text-decoration: none; 
+} */
+
+
+
+
+ /* .searchbar {
+    
+    overflow: hidden;
+    
+}  */
+
+/* .searchbar input {
+    border: none;
+    font-size: 17px;
+}  */
+
+
+ 
