@@ -24,4 +24,4 @@ This is a training to test Bootstrap5 after taking about 6 hours of lessons on [
 - progress bar
 - order
 - caroussel
-- Many other
+- Many others
