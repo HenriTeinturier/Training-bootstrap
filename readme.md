@@ -1,7 +1,7 @@
 # Projet-Training-Bootstrap5
 This is a training to test Bootstrap5 after taking about 6 hours of lessons on [Udemy.](https://www.udemy.com/course/bootstrap-5-la-formation-ultime/)  
 [Result of this test](https://henriteinturier.github.io/Training-bootstrap/)
-![card image](img/test bootstrap.jpg)
+![card image](img/test%20bootstrap.jpg)
 
 
 
